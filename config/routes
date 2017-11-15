@@ -1,0 +1,19 @@
+/static StaticR Static appStatic
+/auth   AuthR   Auth   getAuth
+
+/favicon.ico FaviconR GET
+/robots.txt RobotsR GET
+
+/ HomeR GET POST
+
+/comments CommentR POST
+
+/profile ProfileR GET
+/list/#Int ListR GET POST
+/dirlist/#DirId DirListR GET
+/ins InsR GET
+/sel SelR GET
+/up UpR GET
+/fetchid FetchIdR GET
+/fetchuni FetchUniR GET
+/del DelR GET

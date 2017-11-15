@@ -1,0 +1,9 @@
+<div .container>
+    <!-- Starting
+        ================================================== -->
+    <div .bs-docs-section>
+        <div .row>
+            <div .col-lg-12>
+                <div .page-header>
+                    <h1 #start>update...
+                    <p>#{show uid}
